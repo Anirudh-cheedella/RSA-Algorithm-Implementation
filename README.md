@@ -24,5 +24,4 @@ Clone the repository and compile with `g++`:
 
 ```bash
 git clone https://github.com/Anirudh-cheedella/RSA-Algorithm-Implementation
-cd rsa-cli
 g++ src.cpp -o rsa
