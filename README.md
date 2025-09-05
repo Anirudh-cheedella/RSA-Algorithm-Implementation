@@ -23,6 +23,6 @@ It is intended for **educational purposes only**; the key sizes are small and no
 Clone the repository and compile with `g++`:
 
 ```bash
-git clone https://github.com/your-username/rsa-cli.git
+git clone https://github.com/Anirudh-cheedella/RSA-Algorithm-Implementation
 cd rsa-cli
-g++ rsa_cli_text.cpp -o rsa
+g++ src.cpp -o rsa
